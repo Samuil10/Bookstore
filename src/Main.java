@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Моля въведете име на книга:"); //print
+        System.out.println("Моля въведете име на книга: "); //print
 
         Scanner sc = new Scanner(System.in); //def
         String bookName = sc.nextLine(); //read
